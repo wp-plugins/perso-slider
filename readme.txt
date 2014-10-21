@@ -1,7 +1,7 @@
 === Perso Slider ===
 Contributors: Qassim.Dev
 Donate link: http://j.mp/plugins_donation
-Tags: slider, images slider responsive, images slider, image, images, retina, video, video slider, videos, youtube, vimeo, responsive, shortcode, post, plugin, posts, page
+Tags: slider, images slider responsive, images slider, image, images, retina, video, video slider, videos, youtube, vimeo, responsive, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.6
 Tested up to: 4.0
 Stable tag: 1.0
