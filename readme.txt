@@ -1,7 +1,7 @@
 === Perso Slider ===
 Contributors: Qassim.Dev
 Donate link: http://j.mp/plugins_donation
-Tags: slider, images slider responsive, images slider, image, images, retina, video, video slider, videos, youtube, vimeo, responsive
+Tags: slider, images slider responsive, images slider, image, images, retina, video, video slider, videos, youtube, vimeo, responsive, shortcode, post, plugin, posts, page
 Requires at least: 2.6
 Tested up to: 4.0
 Stable tag: 1.0
@@ -33,10 +33,11 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 * [http://j.mp/perso_slider_demo](http://j.mp/perso_slider_demo)
 
-### Credit
+### About
 
 * [The plugin designed and developed by Qassim Hassan.](http://qass.im)
-* [Perso Themes.](http://j.mp/Perso_themes)
+* [Qassim Hassan on Twitter.](https://twitter.com/Qassim_Dev)
+* [Perso Themes on Themeforest.](http://j.mp/Perso_themes)
 * [Perso Themes on Creative Market.](http://j.mp/perso_themes_creativemarket)
 * [Banner and icon designed by iFlendra, thanks to him.](https://twitter.com/iFlendra)
 
@@ -63,23 +64,18 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 ### Example
 
-[persoslider_w]
-
-[persoslider_c img="http://qass.im/perso_themes1/wp-content/uploads/2014/10/11738-albert-einstein-1366x768-male-celebrity-wallpaper.jpg" cap="Albert Einstein"]
-
-[persoslider_c video="http://www.youtube.com/watch?v=21It5oDzYZw"]
-
-[persoslider_c img="http://qass.im/perso_themes1/wp-content/uploads/2014/10/tea_cups_splash-wallpaper-1920x1080.jpg"]
-
-[persoslider_c video="http://vimeo.com/106835400"]
-
-[/persoslider_w]
+    [persoslider_w]
+    [persoslider_c img="http://qass.im/perso_themes1/wp-content/uploads/2014/10/11738-albert-einstein-1366x768-male-celebrity-wallpaper.jpg" cap="Albert Einstein"]
+    [persoslider_c video="http://www.youtube.com/watch?v=21It5oDzYZw"]
+    [persoslider_c img="http://qass.im/perso_themes1/wp-content/uploads/2014/10/tea_cups_splash-wallpaper-1920x1080.jpg"]
+    [persoslider_c video="http://vimeo.com/106835400"]
+    [/persoslider_w]
 
 == Frequently Asked Questions ==
 
 ### FAQ
 
-1. I added video attribute with cap attribute, but not working! answere is: video with caption is not allowed, cap attribute working only with img attribute.
+1. Question is: I added video attribute with cap attribute, but why not working? Answere is: video with caption is not allowed, cap attribute working only with img attribute.
 
 * [For more questions or help, contact me.](http://qass.im/message-envelope)
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
@@ -100,10 +96,3 @@ First version.
 
 == Upgrade Notice ==
 Currently not available.
-
-== Connect ==
-* [Qassim Hassan](http://qass.im)
-* [Contact](http://qass.im/message-envelope)
-* [Follow me on twitter.](https://twitter.com/Qassim_Dev)
-* [Perso Themes.](http://j.mp/Perso_themes)
-* [Perso Themes on Creative Market.](http://j.mp/perso_themes_creativemarket)
