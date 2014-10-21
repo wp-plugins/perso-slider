@@ -41,6 +41,10 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 * [Perso Themes on Creative Market.](http://j.mp/perso_themes_creativemarket)
 * [Banner and icon designed by iFlendra, thanks to him.](https://twitter.com/iFlendra)
 
+### More Plugins
+
+* [Responsive Full Background](https://wordpress.org/plugins/responsive-full-background/)
+
 == Installation ==
 
 ### Installation
