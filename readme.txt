@@ -1,5 +1,5 @@
 === Perso Slider ===
-Contributors: qassim.dev
+Contributors: Qassim.Dev
 Donate link: http://j.mp/plugins_donation
 Tags: slider, images slider responsive, images slider, image, images, retina, video, video slider, videos, youtube, vimeo, responsive
 Requires at least: 2.6
