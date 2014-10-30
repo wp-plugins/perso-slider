@@ -31,7 +31,7 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 ### Live Demo
 
-* [http://j.mp/perso_slider_demo](http://j.mp/perso_slider_demo)
+* [Perso Slider live demo](http://q.gs/6623707/perso-slider-demo)
 
 ### About
 
