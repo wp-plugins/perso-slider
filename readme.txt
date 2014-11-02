@@ -31,7 +31,7 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 ### Live Demo
 
-* [Perso Slider live demo](http://q.gs/6623707/perso-slider-demo)
+* [http://j.mp/perso_slider_plugin](http://j.mp/perso_slider_plugin)
 
 ### About
 
@@ -43,7 +43,7 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 ### More Plugins
 
-* [Responsive Full Background](https://wordpress.org/plugins/responsive-full-background/)
+* [My Plugins](https://profiles.wordpress.org/qassimdev/#content-plugins)
 
 == Installation ==
 
@@ -83,15 +83,6 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 * [For more questions or help, contact me.](http://qass.im/message-envelope)
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
-
-== Screenshots ==
-
-1. Perso Slider images with captions.
-2. Perso Slider images without captions.
-3. Perso Slider videos.
-4. Perso Slider shortcodes.
-5. Perso Slider on iPhone.
-6. Perso Slider on iPad.
 
 == Changelog ==
 
