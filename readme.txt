@@ -33,6 +33,10 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 * [http://j.mp/perso_slider_plugin](http://j.mp/perso_slider_plugin)
 
+### Rate The Plugin
+
+* [Please rate Perso Slider plugin](https://wordpress.org/support/view/plugin-reviews/perso-slider#postform)
+
 ### About
 
 * [The plugin designed and developed by Qassim Hassan.](http://qass.im)
