@@ -73,9 +73,9 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 ### Example
 
     [persoslider_w]
-    [persoslider_c img="http://qass.im/perso_themes1/wp-content/uploads/2014/10/11738-albert-einstein-1366x768-male-celebrity-wallpaper.jpg" cap="Albert Einstein"]
+    [persoslider_c img="http://qass.im/my-plugins/wp-content/uploads/2014/11/11738-albert-einstein-1366x768-male-celebrity-wallpaper.jpg" cap="Albert Einstein"]
     [persoslider_c video="http://www.youtube.com/watch?v=21It5oDzYZw"]
-    [persoslider_c img="http://qass.im/perso_themes1/wp-content/uploads/2014/10/tea_cups_splash-wallpaper-1920x1080.jpg"]
+    [persoslider_c img="http://qass.im/my-plugins/wp-content/uploads/2014/11/tea_cups_splash-wallpaper-1920x1080.jpg"]
     [persoslider_c video="http://vimeo.com/106835400"]
     [/persoslider_w]
 
