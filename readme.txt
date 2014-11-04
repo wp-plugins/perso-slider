@@ -20,7 +20,7 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 * Fully Responsive.
 * Retina Ready.
-* Unlimited amount of images and videos to be added to the slider.
+* Unlimited amount of images and videos to be added to the slider. 
 * Unlimited Sliders.
 * YouTube and Vimeo support.
 * Images Captions.
