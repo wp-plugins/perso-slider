@@ -41,8 +41,8 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 * [The plugin designed and developed by Qassim Hassan.](http://qass.im)
 * [Qassim Hassan on Twitter.](https://twitter.com/Qassim_Dev)
-* [Perso Themes on Themeforest.](http://j.mp/Perso_themes)
-* [Perso Themes on Creative Market.](http://j.mp/perso_themes_creativemarket)
+* [My premium themes and plugins on Creative Market.](http://j.mp/perso_creativemarket)
+* [My premium themes and plugins on Themeforest.](http://j.mp/Perso_themes)
 * [Banner and icon designed by iFlendra, thanks to him.](https://twitter.com/iFlendra)
 
 ### More Plugins
