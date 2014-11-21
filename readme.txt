@@ -3,18 +3,18 @@ Contributors: Qassim.Dev
 Donate link: http://j.mp/plugins_donation
 Tags: slider, images slider responsive, images slider, image, images, retina, video, video slider, videos, youtube, vimeo, responsive, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.6
-Tested up to: 4.0
+Tested up to: 4.0.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Responsive and Retina images and videos slider, simple but flexible with touch devices support and compatible with browsers. 
+Responsive and Retina images and videos slider, simple but flexible with touch devices support and compatible with browsers.
 
 == Description ==
 
 ### Perso Slider
 
-Responsive and Retina images and videos slider, simple but flexible with touch devices support and compatible with Google Chrome, FireFox, Opera, Safari, IE9, IE10, IE11. 
+Responsive and Retina images and videos slider, simple but flexible with touch devices support and compatible with Google Chrome, FireFox, Opera, Safari, IE9, IE10, IE11.
 
 ### The Features
 
