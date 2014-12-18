@@ -37,9 +37,9 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 * [Please rate Perso Slider plugin](https://wordpress.org/support/view/plugin-reviews/perso-slider#postform)
 
-### Unlimited Web Hosting
+### Beautiful WordPress Themes
 
-* [Unlimited web hosting for $0.50 Only and one-click install WordPress](http://j.mp/hosting_50cent)
+* [Collection of 87 themes for only $69](http://j.mp/beautiful_themes)
 
 ### Premium WordPress Themes And Plugins
 
