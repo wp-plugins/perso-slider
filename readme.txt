@@ -41,7 +41,7 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 * [Collection of 87 themes for only $69](http://j.mp/beautiful_themes)
 
-### Premium WordPress Themes And Plugins
+### My Premium WordPress Themes And Plugins
 
 * [My premium themes and plugins on Creative Market.](http://j.mp/1AS73zL)
 * [My premium themes and plugins on Themeforest.](http://j.mp/Perso_themes)
