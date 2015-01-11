@@ -61,6 +61,11 @@ ul.perso_slider_list li:first-child{
 	display:block;
 }
 
+ul.perso_slider_list li:before,
+ul.perso_slider_list li:after{
+	display:none;
+}
+
 ul.perso_slider_list img{
 	max-width:100%;
 	width:100%;
