@@ -4,7 +4,7 @@ Donate link: http://j.mp/plugins_donation
 Tags: slider, images slider responsive, images slider, image, images, retina, video, video slider, videos, youtube, vimeo, responsive, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.6
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -99,6 +99,9 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 = 1.0 =
 First version.
+
+= 1.0.1 =
+Fix <li> before and after.
 
 == Upgrade Notice ==
 Currently not available.
