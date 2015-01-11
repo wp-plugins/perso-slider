@@ -101,7 +101,7 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 First version.
 
 = 1.0.1 =
-Fix <li> before and after.
+Fix before and after for li tag.
 
 == Upgrade Notice ==
 Currently not available.
