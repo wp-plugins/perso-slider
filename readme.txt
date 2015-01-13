@@ -37,6 +37,10 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 * [Please rate Perso Slider plugin](https://wordpress.org/support/view/plugin-reviews/perso-slider#postform)
 
+### January Big Bundle
+
+* [Pick up 64 products worth $1,112 for just $39](http://j.mp/jan_b_b)
+
 ### Beautiful WordPress Themes
 
 * [Collection of 87 themes for only $69](http://j.mp/beautiful_themes)
