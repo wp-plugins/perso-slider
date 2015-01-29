@@ -37,9 +37,9 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 * [Please rate Perso Slider plugin](https://wordpress.org/support/view/plugin-reviews/perso-slider#postform)
 
-### January Big Bundle
+### Zaman - WordPress Blog theme
 
-* [Pick up 64 products worth $1,112 for just $39](http://j.mp/jan_b_b)
+* [Responsive and Retina WordPress blog Theme with a lot of features](http://j.mp/zaman_theme)
 
 ### Beautiful WordPress Themes
 
