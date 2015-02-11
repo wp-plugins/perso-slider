@@ -106,6 +106,3 @@ First version.
 
 = 1.0.1 =
 Fix before and after for li tag.
-
-== Upgrade Notice ==
-Currently not available.
