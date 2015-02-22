@@ -31,7 +31,7 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 ### Live Demo
 
-* [http://qass.im/my-plugins/perso-slider/](http://qass.im/my-plugins/perso-slider/)
+* [http://wp-time.com/perso-slider/](http://wp-time.com/perso-slider/)
 
 ### Rate The Plugin
 
