@@ -1,19 +1,13 @@
 @charset "UTF-8";
 
 /*
-	Perso Slider
-	Version: 1.0.0
-	By: Qassim Hassan (Persothemes)
-	Personal website: http://qass.im
-	Themeforest portfolio: http://j.mp/persothemes
-	Twitter: https://twitter.com/Qassim_Dev
-	E-Mail: qassim.pay@gmail.com
+	Perso Slider Style.
 */
 
 .perso_slider_wrap{
 	display:block;
-	width:100%;
-	margin:20px auto;
+	max-width:768px;
+	margin:0 auto 30px auto;
 	background-color:#fff;
 	padding:5px;
 	border:1px solid #ddd;
@@ -289,6 +283,13 @@ ul.perso_slider_list li .perso_slider_caption a{
 .fadeInLeft {
   -webkit-animation-name: fadeInLeft;
           animation-name: fadeInLeft;
+}
+
+@media all and (min-width: 1367px){
+	.perso_slider_content{
+		padding-bottom:0;
+		height:534px;
+	}
 }
 
 /* responsive */
