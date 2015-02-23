@@ -1,11 +1,5 @@
 /*
-	Perso Slider
-	Version: 1.0.0
-	By: Qassim Hassan (Persothemes)
-	Personal website: http://qass.im
-	Themeforest portfolio: http://j.mp/persothemes
-	Twitter: https://twitter.com/Qassim_Dev
-	E-Mail: qassim.pay@gmail.com
+	Perso Slider Script
 */
 
 jQuery(window).load(function() {
