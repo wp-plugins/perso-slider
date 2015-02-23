@@ -4,7 +4,7 @@ Donate link: http://j.mp/plugins_donation
 Tags: slider, images slider responsive, images slider, image, images, retina, video, video slider, videos, youtube, vimeo, responsive, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.6
 Tested up to: 4.1.1
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -111,3 +111,6 @@ Fix before and after for li tag.
 Wrap margin fixed.
 Wrap width fixed.
 Media query for big screen size added.
+
+= 1.0.3 =
+Animation time fixed.

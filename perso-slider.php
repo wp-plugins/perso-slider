@@ -3,7 +3,7 @@
 Plugin Name: Perso Slider
 Plugin URI: http://wp-time.com/perso-slider/
 Description: Responsive and Retina images and videos slider, simple but flexible with touch devices support and compatible with Google Chrome, FireFox, Opera, Safari, IE9, IE10, IE11.
-Version: 1.0.2
+Version: 1.0.3
 Author: Qassim Hassan
 Author URI: http://qass.im
 License: GPLv2 or later

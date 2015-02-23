@@ -213,10 +213,10 @@ ul.perso_slider_list li .perso_slider_caption a{
 
 /* animation */
 .animated{
-	-webkit-animation-duration: 0.5s;
-	animation-duration: 0.5s;
-	-webkit-animation-fill-mode: both;
-	animation-fill-mode: both;
+	-webkit-animation-duration: 0.5s !important;
+	animation-duration: 0.5s !important;
+	-webkit-animation-fill-mode: both !important;
+	animation-fill-mode: both !important;
 }
 
 @-webkit-keyframes fadeInRight {
@@ -248,8 +248,8 @@ ul.perso_slider_list li .perso_slider_caption a{
 }
 
 .fadeInRight {
-  -webkit-animation-name: fadeInRight;
-          animation-name: fadeInRight;
+  -webkit-animation-name: fadeInRight !important;
+          animation-name: fadeInRight !important;
 }
 
 @-webkit-keyframes fadeInLeft {
