@@ -37,9 +37,9 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 * [Please rate Perso Slider plugin](https://wordpress.org/support/view/plugin-reviews/perso-slider#postform)
 
-### Download Zaman WordPress Blog Theme
+### Download Davinci WordPress Blog Theme
 
-* [Responsive and Retina WordPress blog Theme with a lot of features](http://j.mp/zaman_theme)
+* [Responsive and Retina WordPress blog Theme with a lot of features](http://wp-time.com/a-premium-wordpress-blog-themes/)
 
 ### Beautiful WordPress Themes
 
