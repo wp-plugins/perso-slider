@@ -12,7 +12,7 @@ Responsive and Retina images and videos slider, simple but flexible with touch d
 
 == Description ==
 
-### Perso Slider                                    
+### Perso Slider                                     
 
 Responsive and Retina images and videos slider, simple but flexible with touch devices support and compatible with Google Chrome, FireFox, Opera, Safari, IE9, IE10, IE11.
 
