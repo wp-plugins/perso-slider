@@ -1,20 +1,20 @@
 === Perso Slider ===
 Contributors: Qassim.Dev
 Donate link: http://j.mp/plugins_donation
-Tags: slider, images slider responsive, images slider, auto, auto slider, image, images, retina, video, video slider, videos, youtube, vimeo, responsive, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
+Tags: slider, images slider responsive, images slider, auto, autoplay slider, autoplay, image, images, retina, video, video slider, videos, youtube, vimeo, responsive, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.6
 Tested up to: 4.1.1
 Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Description: Responsive and Retina images and videos slider, auto slider support, touch devices support, youtube and vimeo support, compatible with all major browsers.
+Description: Responsive and Retina images and videos slider, autoplay support, touch devices support, youtube and vimeo support, compatible with all major browsers.
 
 == Description ==
 
 ### Perso Slider                                                
 
-Description: Responsive and Retina images and videos slider, auto slider support, touch devices support, youtube and vimeo support, compatible with all major browsers.
+Description: Responsive and Retina images and videos slider, autoplay support, touch devices support, youtube and vimeo support, compatible with all major browsers.
 
 ### The Features
 
@@ -22,7 +22,7 @@ Description: Responsive and Retina images and videos slider, auto slider support
 * Retina Ready.
 * Unlimited amount of images and videos to be added to the slider. 
 * Unlimited Sliders.
-* Auto Slider Support (will be stopped when hover).
+* Autoplay Support (will be stopped when hover).
 * YouTube and Vimeo support.
 * Images Captions.
 * Touch devices support.
@@ -74,7 +74,7 @@ Description: Responsive and Retina images and videos slider, auto slider support
 2. This shortcode is slider wrap [persoslider_w] [/persoslider_w]
 3. This shortcode is your content [persoslider_c] put it inside slider wrap shortcode.
 
-### [persoslider_w] Attributes (auto slider attributes)
+### [persoslider_w] Attributes (autoplay attributes)
 1. auto="" enter "true" to activate auto slider, example: auto="true" default is false.
 2. time="" enter value for auto slider time (seconds) example for 6 seconds: time="6" default is 3 seconds.
 3. move="" enter animation effect for auto slider, Right or Left effect, example: move="Left" default is Right.
@@ -96,7 +96,7 @@ Description: Responsive and Retina images and videos slider, auto slider support
     [persoslider_c video="http://vimeo.com/106835400"]
     [/persoslider_w]
 	
-### Example for auto slider
+### Example for autoplay
 
     [persoslider_w auto="true" time="5" move="Left"]
     [persoslider_c img="http://wp-time.com/wp-content/uploads/2015/02/insu.jpg" cap="My Car"]
@@ -117,10 +117,10 @@ Description: Responsive and Retina images and videos slider, auto slider support
 == Changelog ==
 
 = 1.0.5 =
-Fix the problem in auto slider.
+Fix the problem in autoplay.
 
 = 1.0.4 =
-Auto Slider Support.
+Autoplay Support.
 
 = 1.0.3 =
 Animation time fixed.

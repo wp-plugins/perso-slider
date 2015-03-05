@@ -2,7 +2,7 @@
 /*
 Plugin Name: Perso Slider
 Plugin URI: http://wp-time.com/perso-slider/
-Description: Responsive and Retina images and videos slider, auto slider support, touch devices support, youtube and vimeo support, compatible with all major browsers.
+Description: Responsive and Retina images and videos slider, autoplay support, touch devices support, youtube and vimeo support, compatible with all major browsers.
 Version: 1.0.5
 Author: Qassim Hassan
 Author URI: http://qass.im
