@@ -3,7 +3,7 @@
 Plugin Name: Perso Slider
 Plugin URI: http://wp-time.com/perso-slider/
 Description: Responsive and Retina images and videos slider, auto slider support, touch devices support, youtube and vimeo support, compatible major browsers.
-Version: 1.0.4
+Version: 1.0.5
 Author: Qassim Hassan
 Author URI: http://qass.im
 License: GPLv2 or later
@@ -62,6 +62,7 @@ function perso_slider_( $atts, $content = null ) {
 	
 	$clean_content = strip_tags($content);
 	
+	ob_start();
     ?>
     	<div id="<?php echo $id; ?>" class="perso_slider_wrap">
     		<div class="perso_slider_content">
@@ -85,6 +86,7 @@ function perso_slider_( $atts, $content = null ) {
         <?php endif; ?>
         
     <?php
+	return ob_get_clean();
 }
 add_shortcode("persoslider_w", "perso_slider_");
 

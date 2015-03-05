@@ -4,7 +4,7 @@ Donate link: http://j.mp/plugins_donation
 Tags: slider, images slider responsive, images slider, auto, auto slider, image, images, retina, video, video slider, videos, youtube, vimeo, responsive, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.6
 Tested up to: 4.1.1
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -116,19 +116,22 @@ Description: Responsive and Retina images and videos slider, auto slider support
 
 == Changelog ==
 
-= 1.0 =
-First version.
+= 1.0.5 =
+Fix the problem in auto slider.
 
-= 1.0.1 =
-Fix before and after for li tag.
+= 1.0.4 =
+Auto Slider Support.
+
+= 1.0.3 =
+Animation time fixed.
 
 = 1.0.2 =
 Wrap margin fixed.
 Wrap width fixed.
 Media query for big screen size added.
 
-= 1.0.3 =
-Animation time fixed.
+= 1.0.1 =
+Fix before and after for li tag.
 
-= 1.0.4 =
-Auto Slider Support.
+= 1.0.0 =
+First version.
