@@ -2,8 +2,8 @@
 /*
 Plugin Name: Perso Slider
 Plugin URI: http://wp-time.com/perso-slider/
-Description: Responsive and Retina images and videos slider, simple but flexible with touch devices support and compatible with Google Chrome, FireFox, Opera, Safari, IE9, IE10, IE11.
-Version: 1.0.3
+Description: Responsive and Retina images and videos slider, auto slider support, touch devices support, youtube and vimeo support, compatible major browsers.
+Version: 1.0.4
 Author: Qassim Hassan
 Author URI: http://qass.im
 License: GPLv2 or later
@@ -36,14 +36,55 @@ add_action('wp_enqueue_scripts', 'perso_slider__js_css');
 
 // Add perso slider shortcode
 function perso_slider_( $atts, $content = null ) { 
+	Extract(
+		shortcode_atts(
+			array(
+				"auto" => "false",
+				"time" => "3",
+				"move" => "Right"
+			),$atts
+		)
+	);
+	
+	if( $auto == "true" ){
+		$slider_control = null;
+		$id = rand().'-autoslider';
+	}else{
+		$slider_control = '<i class="perso_slider_next"></i><i class="perso_slider_prev"></i>';
+		$id = 'perso-slider-standard-slider';
+	}
+	
+	if( $move == "left" or $move == "Left" ){
+		$move = "Left";
+	}else{
+		$move = "Right";
+	}
+	
 	$clean_content = strip_tags($content);
-    return '<div class="perso_slider_wrap">
-    	<div class="perso_slider_content">
-    		<ul id="perso_slider" class="perso_slider_list">'.do_shortcode($clean_content).'</ul>
-            <i class="perso_slider_next"></i>
-            <i class="perso_slider_prev"></i>
+	
+    ?>
+    	<div id="<?php echo $id; ?>" class="perso_slider_wrap">
+    		<div class="perso_slider_content">
+    			<ul id="perso_slider" class="perso_slider_list"><?php echo do_shortcode($clean_content); ?></ul>
+				<?php echo $slider_control; ?>
+    		</div>
     	</div>
-    </div>';
+    
+    	<?php if($auto == "true") : ?>
+			<script type="text/javascript">
+				setInterval(function() { 
+					if( !jQuery('#<?php echo $id; ?>.perso_slider_wrap').is(':hover') ){
+						jQuery('#<?php echo $id; ?>.perso_slider_wrap ul li:first-child')
+						.addClass('animated fadeIn<?php echo $move;?>')
+						.next().addClass('animated fadeIn<?php echo $move;?>')
+						.end()
+						.appendTo('#<?php echo $id; ?>.perso_slider_wrap ul');
+					}
+				}, <?php echo $time; ?>000);
+			</script>
+        <?php endif; ?>
+        
+    <?php
 }
 add_shortcode("persoslider_w", "perso_slider_");
 
