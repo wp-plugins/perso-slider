@@ -4,7 +4,7 @@ Donate link: http://j.mp/plugins_donation
 Tags: slider, images slider responsive, images slider, auto, autoplay slider, autoplay, image, images, retina, video, video slider, videos, youtube, vimeo, responsive, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.6
 Tested up to: 4.1.1
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -115,6 +115,9 @@ Description: Responsive and Retina images and videos slider, autoplay support, t
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
 
 == Changelog ==
+
+= 1.0.6 =
+WP Time Support.
 
 = 1.0.5 =
 Fix the problem in autoplay.
