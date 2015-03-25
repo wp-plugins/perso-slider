@@ -111,7 +111,7 @@ Responsive and Retina images and videos slider, autoplay support, touch devices 
 
 1. Question is: I added video attribute with cap attribute, but why not working? Answere is: video with caption is not allowed, cap attribute working only with img attribute.
 
-* [For more questions or help, contact me.](http://qass.im/contact)
+* [For more questions or help, contact me.](http://wp-time.com/contact/)
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
 
 == Changelog ==
