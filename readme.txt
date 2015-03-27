@@ -12,7 +12,7 @@ Responsive and Retina images and videos slider, autoplay support, touch devices 
 
 == Description ==
 
-### Perso Slider          
+### Perso Slider           
 
 Responsive and Retina images and videos slider, autoplay support, touch devices support, youtube and vimeo support, compatible with all major browsers.
 
