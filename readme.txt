@@ -8,7 +8,7 @@ Stable tag: 1.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Beautiful images and videos slider, responsive and retina, autoplay, touch devices, youtube, vimeo, keek, instagram support, compatible with all major browsers.
+Beautiful images and videos slider, responsive and retina, autoplay, touch devices, youtube, vimeo, keek, instagram support, compatible with browsers.
 
 == Description ==
 
