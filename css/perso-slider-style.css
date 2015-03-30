@@ -7,7 +7,9 @@
 .perso_slider_wrap{
 	display:block;
 	max-width:768px;
-	margin:0 auto 30px auto;
+	margin-right:auto;
+	margin-left:auto;
+	margin-bottom:30px;
 	background-color:#fff;
 	padding:5px;
 	border:1px solid #ddd;
@@ -16,6 +18,10 @@
 	-webkit-box-sizing:border-box;
 	-moz-box-sizing:border-box;
 	line-height:0 !important;
+}
+
+.perso_slider_wrap:last-child{
+	margin-bottom:0;
 }
 
 .perso_slider_content{
