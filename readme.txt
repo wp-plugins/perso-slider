@@ -40,18 +40,13 @@ Beautiful images and videos slider, responsive and retina, autoplay, touch devic
 
 * [Please rate Perso Slider plugin](https://wordpress.org/support/view/plugin-reviews/perso-slider#postform)
 
-### Download Davinci WordPress Blog Theme
+### See Also
 
-* [Responsive and Retina WordPress blog Theme with a lot of features](http://wp-time.com/a-premium-wordpress-blog-themes/)
-
-### Beautiful WordPress Themes
-
-* [Collection of 87 themes for only $69](http://j.mp/beautiful_themes)
-
-### My Premium WordPress Themes And Plugins
-
-* [My premium themes and plugins on Creative Market.](http://j.mp/1AS73zL)
-* [My premium themes and plugins on Themeforest.](http://j.mp/Perso_themes)
+* [Collection of 87 themes for $69 only.](http://j.mp/ET_WPTime)
+* [Premium WordPress themes on Creative Market.](http://j.mp/CM_WPTime)
+* [Premium WordPress themes on Themeforest.](http://j.mp/TF_WPTime)
+* [Premium WordPress plugins on Codecanyon.](http://j.mp/CC_WPTime)
+* [Unlimited web hosting for $3.95 only.](http://j.mp/BH_WPTime)
 
 ### About
 
