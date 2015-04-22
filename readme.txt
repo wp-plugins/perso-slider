@@ -34,7 +34,7 @@ Beautiful images and videos slider, responsive and retina, autoplay, touch devic
 
 ### Shortcode To Widget
 
-* Want perso slider widget? try [Shortcode To Widget](https://wordpress.org/plugins/perso-slidert/) plugin.
+* Want perso slider widget? try [Shortcode To Widget](http://wp-time.com/perso-slidert/) plugin.
 
 ### Live Demo
 
