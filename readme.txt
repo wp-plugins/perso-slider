@@ -4,7 +4,7 @@ Donate link: http://j.mp/WPTime_donations
 Tags: slider, images slider responsive, images slider, auto, autoplay slider, autoplay, image, images, retina, video, video slider, videos, youtube, vimeo, responsive, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.8
 Tested up to: 4.1.2
-Stable tag: 1.7
+Stable tag: 1.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -79,6 +79,11 @@ Beautiful images and videos slider, responsive and retina, autoplay, touch devic
 
 == Changelog ==
 
+= 1.8 =
+* Fix default CSS.
+* Want perso slider widget? try [Shortcode To Widget](http://wp-time.com/shortcode-to-widget/) plugin.
+
+
 = 1.7 =
 * Custom wrap width and wrap height and wrap margin bottom.
 * Keek videos support.
@@ -86,25 +91,25 @@ Beautiful images and videos slider, responsive and retina, autoplay, touch devic
 * New attribute url="".
 * Perso Slider shortcodes page.
 
-= 1.0.6 =
+= 1.6 =
 WP Time Support.
 
-= 1.0.5 =
+= 1.5 =
 Fix the problem in autoplay.
 
-= 1.0.4 =
+= 1.4 =
 Autoplay Support.
 
-= 1.0.3 =
+= 1.3 =
 Animation time fixed.
 
-= 1.0.2 =
+= 1.2 =
 Wrap margin fixed.
 Wrap width fixed.
 Media query for big screen size added.
 
-= 1.0.1 =
+= 1.1 =
 Fix before and after for li tag.
 
-= 1.0.0 =
+= 1.0 =
 First version.

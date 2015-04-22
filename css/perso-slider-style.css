@@ -67,9 +67,9 @@ ul.perso_slider_list li:after{
 }
 
 ul.perso_slider_list img{
-	max-width:100%;
-	width:100%;
-	height:100%;
+	max-width:100% !important;
+	width:100% !important;
+	height:100% !important;
 	margin:0 !important;
 	padding:0 !important;
 	border:none !important;
@@ -86,6 +86,11 @@ ul.perso_slider_list img{
 	-moz-box-shadow:none !important;
 	-o-box-shadow:none !important;
 	-ms-box-shadow:none !important;
+	opacity:1 !important;
+}
+
+ul.perso_slider_list img:hover{
+	opacity:1 !important;
 }
 
 .perso_slider_caption{
