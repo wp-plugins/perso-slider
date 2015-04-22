@@ -32,6 +32,10 @@ Beautiful images and videos slider, responsive and retina, autoplay, touch devic
 * Compatible with Google Chrome, FireFox, Opera, Safari, IE9, IE10, IE11.
 * Easy to use and without options page, 2 shortcodes only.
 
+### Shortcode To Widget
+
+* Want perso slider widget? try [Shortcode To Widget](https://wordpress.org/plugins/perso-slidert/) plugin.
+
 ### Live Demo
 
 * [http://wp-time.com/perso-slider/](http://wp-time.com/perso-slider/)
