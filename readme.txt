@@ -12,7 +12,7 @@ Beautiful images and videos slider, responsive and retina, autoplay, touch devic
 
 == Description ==
 
-### Perso Slider                                
+### Perso Slider                                 
 
 Beautiful images and videos slider, responsive and retina, autoplay, touch devices, youtube, vimeo, keek, instagram support, compatible with all major browsers.
 
