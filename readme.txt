@@ -3,8 +3,8 @@ Contributors: Qassim.Dev
 Donate link: http://j.mp/WPTime_donations
 Tags: slider, images slider responsive, images slider, auto, autoplay slider, autoplay, image, images, retina, video, video slider, videos, youtube, vimeo, responsive, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.8
-Tested up to: 4.2
-Stable tag: 1.8
+Tested up to: 4.2.1
+Stable tag: 1.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,6 +46,7 @@ Beautiful images and videos slider, responsive and retina, autoplay, touch devic
 
 ### See Also
 
+* [WP Time need your donation.](http://j.mp/Donate_To_WPTime)
 * [Collection of 87 themes for $69 only.](http://j.mp/ET_WPTime)
 * [Get 50% discount for premium WordPress themes or plugins.](http://wp-time.com/get-50-discount-for-any-wordpress-themes-or-plugins/)
 * [Premium WordPress themes on Creative Market.](http://j.mp/CM_WPTime)
@@ -79,6 +80,9 @@ Beautiful images and videos slider, responsive and retina, autoplay, touch devic
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
 
 == Changelog ==
+
+= 1.9 =
+* [WP Time need your donation.](http://j.mp/Donate_To_WPTime)
 
 = 1.8 =
 * Fix default CSS.
