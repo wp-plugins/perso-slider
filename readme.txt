@@ -82,7 +82,7 @@ Beautiful images and videos slider, responsive and retina, autoplay, touch devic
 == Changelog ==
 
 = 1.9 =
-* [WP Time need your donation.](http://j.mp/Donate_To_WPTime)
+* Support WordPress latest version.
 
 = 1.8 =
 * Fix default CSS.
