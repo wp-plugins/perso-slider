@@ -70,7 +70,7 @@ Beautiful images and videos slider, responsive and retina, autoplay, touch devic
 
 1. Upload 'perso-slider' folder to the '/wp-content/plugins/' directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Go to "Perso Slider" in wp-admin menu.
+3. Go to your wp-admin > Plugins > Perso Slider.
 
 == Frequently Asked Questions ==
 
