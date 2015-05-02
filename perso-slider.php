@@ -3,7 +3,7 @@
 Plugin Name: Perso Slider
 Plugin URI: http://wp-time.com/perso-slider/
 Description: Beautiful images and videos slider, responsive and retina, autoplay, touch devices, youtube, vimeo, keek, instagram support, compatible with all major browsers.
-Version: 1.9
+Version: 1.91
 Author: Qassim Hassan
 Author URI: http://qass.im
 License: GPLv2 or later

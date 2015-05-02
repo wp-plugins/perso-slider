@@ -1,7 +1,7 @@
 <?php
 
 	function WPTime_perso_slider_shortocodes() {
-		add_menu_page( 'Perso Slider Shortcodes', 'Perso Slider', 'update_core', 'WPTime_perso_slider_shortocodes', 'WPTime_perso_slider_shortocodes_page');
+		add_plugins_page( 'Perso Slider Shortcodes', 'Perso Slider', 'update_core', 'WPTime_perso_slider_shortocodes', 'WPTime_perso_slider_shortocodes_page');
 	}
 	add_action( 'admin_menu', 'WPTime_perso_slider_shortocodes' );
 		
