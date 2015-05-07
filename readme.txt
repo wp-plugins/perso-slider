@@ -3,7 +3,7 @@ Contributors: Qassim.Dev
 Donate link: http://j.mp/WPTime_donations
 Tags: slider, images slider responsive, images slider, auto, autoplay slider, autoplay, image, images, retina, video, video slider, videos, youtube, vimeo, responsive, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.8
-Tested up to: 4.2.2
+Tested up to: 4.2.1
 Stable tag: 1.91
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
