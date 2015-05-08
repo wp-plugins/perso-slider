@@ -4,7 +4,7 @@ Donate link: http://j.mp/WPTime_donations
 Tags: slider, images slider responsive, images slider, auto, autoplay slider, autoplay, image, images, retina, video, video slider, videos, youtube, vimeo, responsive, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.8
 Tested up to: 4.2.2
-Stable tag: 1.91
+Stable tag: 1.92
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -79,6 +79,9 @@ Beautiful images and videos slider, responsive and retina, autoplay, touch devic
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
 
 == Changelog ==
+
+= 1.92 =
+* Fixing some problems in CSS3 animation.
 
 = 1.91 =
 * add_plugins_page function.
