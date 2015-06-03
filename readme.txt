@@ -50,7 +50,6 @@ Beautiful images and videos slider, responsive and retina, autoplay, touch devic
 * [Premium WordPress themes on Creative Market.](http://j.mp/CM_WPTime)
 * [Premium WordPress themes on Themeforest.](http://j.mp/TF_WPTime)
 * [Premium WordPress plugins on Codecanyon.](http://j.mp/CC_WPTime)
-* [Request your WordPress plugin starting from $9.](http://j.mp/Request_Plugin_WPTime)
 
 ### About
 
